@@ -101,3 +101,19 @@ La nota media de la clase es: 6.00
 FIN DE PROGRAMA
 Fecha y hora: Wed Mar  6 00:29:27 2024
 Interrupción voluntaria ordenada por el propio usuario.
+Fecha y hora: Wed Mar  6 00:41:44 2024
+******** Log del sistema ********
+Creación de directorios finalizada.
+Copia de modelos de examen, finalizada.
+Creación de archivos con nota necesaria para alcanzar la nota de corte, finalizada.
+La nota media de la clase es: 6.00
+FIN DE PROGRAMA
+Fecha y hora: Wed Mar  6 01:07:11 2024
+******** Log del sistema ********
+Creación de directorios finalizada.
+Copia de modelos de examen, finalizada.
+Creación de archivos con nota necesaria para alcanzar la nota de corte, finalizada.
+La nota media de la clase es: 6.00
+FIN DE PROGRAMA
+Fecha y hora: Wed Mar  6 01:07:13 2024
+Interrupción voluntaria ordenada por el propio usuario.
