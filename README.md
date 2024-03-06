@@ -19,6 +19,7 @@ El proceso C añadira un archivo info.txt con la nota que necesita para superar 
 El proceso demon hara un backup de todos los archivos y directorios del directorio donde nos encontremos, este mostrara por pantalla su pid para finalizarlo en caso necesario mediante:
 
 kill "pid"
+
 El manager cuando finaliza sus procesos A,B y C duerme durante 6 segundos, lo que nos dejara tiempo para ejecutar CRTL+C y ejecutar el proceso D
 
 El proceso D borrara todos los directorios creados por el proceso A.
