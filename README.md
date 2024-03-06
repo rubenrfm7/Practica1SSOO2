@@ -24,3 +24,6 @@ El manager cuando finaliza sus procesos A,B y C duerme durante 6 segundos, lo qu
 
 El proceso D borrara todos los directorios creados por el proceso A.
 
+Podemos limpiar los archivos compilados anteriormente mediante:
+
+make clean
